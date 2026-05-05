@@ -52,7 +52,6 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alidiab2000&show_icons=true&locale=en&theme=radical" alt="Ali-Elshorpagi" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alidiab2000&show_icons=true&locale=en&layout=compact&theme=radical" alt="alidiab2000"/> </p>
 
 <br><br>
